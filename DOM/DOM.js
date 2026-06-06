@@ -3,7 +3,7 @@
 // DOM : Document Object model : all the code of html is available in window object of document object(model).
       
 // DOM is used for dynamic changes in the webpage
-;
+
 // DOM Manipulation : 
 // console.dir(window.document);
 

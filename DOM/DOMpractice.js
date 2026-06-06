@@ -9,5 +9,4 @@ newBtn.style.color = "white";
 
 document.querySelector("body").prepend(newBtn);
 
-
 // 2 : 
